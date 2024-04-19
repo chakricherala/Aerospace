@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: D;
+    src: url(../src/fonts/NeueHaasDisplay-Bold.ttf);
+}
+
+@font-face {
+    font-family: Gro;
+    src: url(../src/fonts/NHaasGroteskTXPro-55Rg.ttf);
+}
+
+@font-face {
+    font-family: Pro;
+    src: url(../src/fonts/NHaasGroteskTXPro-75Bd.ttf);
+}
