@@ -7,21 +7,23 @@ import Airtop from './components/Airtop'
 import Features from './components/Features'
 import Background from './components/Background'
 import Clients from './components/Clients'
+import Footer from './components/Footer'
 
 function App() {
 
   return (
     <>
-    <Navbar />
-    <Main />
-    <Name />
-    {/* <Airtop />
+      <Navbar />
+      <Main />
+      <Name />
+      {/* <Airtop />
     <Features />
     <Background /> */}
-    <Airtop id="airtop" />
+      <Airtop />
       <Features />
       <Background />
       <Clients />
+      <Footer />
     </>
   )
 }

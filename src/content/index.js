@@ -86,3 +86,70 @@ export const clientlink = [
         title: Y,
     },
 ]
+
+export const footerLinks = [
+    {
+      title: "Navigation",
+      links: [
+        {
+          name: "Company",
+        },
+        {
+          name: "ES-30",
+        },
+        {
+          name: "Newsroom",
+        },
+        {
+          name: "Media Bank",
+        },
+        {
+          name: "Career",
+        },
+        {
+            name: "Contact",
+          },
+          {
+            name: "Policy",
+          },
+      ],
+    },
+    {
+      title: "Follow",
+      links: [
+        {
+          name: "Facebook",
+        },
+        {
+          name: "Linkedin",
+        },
+        {
+          name: "Instagram",
+        },
+        {
+          name: "Twitter",
+        },
+        {
+          name: "Newsletters",
+          link: "https://www.hoobank.com/newsletters/",
+        },
+      ],
+    },
+    {
+      title: "Heart Aerospace Headquarters",
+      links: [
+        {
+          name: "Lindholmsallén 2 417 55 Göteborg",
+        },
+      ],
+    },
+    {
+        title: "Heart Aerospace Hanger",
+        links: [
+          {
+            name: "Fredsflottiljens Väg 19 417 46 Göteborg",
+          },
+          
+        ],
+      },
+  ];
