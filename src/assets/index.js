@@ -15,6 +15,8 @@ import Saab from './SaabLogoBlack1.png'
 import United from './UnitedAirlines.jpg'
 import Vinnova from './Vinnova.jpg'
 import Y from './YCombinator.jpg'
+import menu from "./menu.svg";
+import close from "./close.svg";
 
 export {
     Intro,
@@ -33,5 +35,7 @@ export {
     Saab,
     United,
     Vinnova,
-    Y
+    Y,
+    menu,
+    close
 } 
