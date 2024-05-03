@@ -21,7 +21,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <nav className={`flex flex-row justify-between px-10 py-10 items-center font-[d] fixed top-0 left-0 right-0 text-black`}>
+      <nav className={`flex text-[1.2vw] flex-row justify-between px-10 py-10 items-center font-[d] fixed top-0 left-0 right-0 text-black`}>
         <div className='flex flex-col items-start leading-none font-semibold'>
           <span>Heart</span>
           <span>Aerospace</span>

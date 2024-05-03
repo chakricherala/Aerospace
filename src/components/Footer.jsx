@@ -3,7 +3,7 @@ import { footerLinks } from '../content'
 
 const Footer = () => {
   return (
-    <div className='bg-black h-fit w-full px-10 py-10 text-white'>
+    <div className='bg-black h-fit w-full px-10 py-10 text-white text-[1.2vw]'>
       <div className="flex-[1.5] w-full flex flex-row justify-between flex-wrap md:mt-0 mt-10">
         {footerLinks.map((footerlink) => (
           <div key={footerlink.title} className={`flex flex-col ss:my-0 my-4 min-w-[150px]`}>
